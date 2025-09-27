@@ -1,0 +1,123 @@
+{
+  "generated_at": "2025-09-26T18:15:33.160555Z",
+  "insights": [
+    {
+      "id": "best_category",
+      "title": "Best performing category (by reviews)",
+      "insight": "['GAME'] has the most reviews (1585422349 total) and an average rating of 4.29.",
+      "confidence": 0.9,
+      "supporting_stats": {
+        "total_reviews": 1585422349,
+        "avg_rating": 4.29
+      },
+      "recommendation": "Prioritize ['GAME'] apps for marketing."
+    },
+    {
+      "id": "free_vs_paid",
+      "title": "Free vs Paid apps",
+      "insight": "Free apps average rating = 4.20, Paid apps average rating = 4.27.",
+      "confidence": 0.8,
+      "supporting_stats": {
+        "avg_rating_free": 4.2,
+        "avg_rating_paid": 4.27,
+        "free_count": 10069,
+        "paid_count": 800
+      },
+      "recommendation": "Evaluate if premium pricing correlates with higher quality."
+    },
+    {
+      "id": "top_categories",
+      "title": "Top 5 categories by app count",
+      "insight": "Most apps belong to: [\"['FAMILY']\", \"['GAME']\", \"['TOOLS']\", \"['MEDICAL']\", \"['BUSINESS']\"].",
+      "confidence": 0.85,
+      "supporting_stats": {
+        "['FAMILY']": 1971,
+        "['GAME']": 1144,
+        "['TOOLS']": 843,
+        "['MEDICAL']": 463,
+        "['BUSINESS']": 460
+      },
+      "recommendation": "Expect strong competition in these categories."
+    },
+    {
+      "id": "most_expensive_category",
+      "title": "Most expensive app category",
+      "insight": "On average, ['ART', 'DESIGN'] apps cost $0.00.",
+      "confidence": 0.75,
+      "supporting_stats": {
+        "category": "['ART', 'DESIGN']",
+        "avg_price": 0.0
+      },
+      "recommendation": "Consider premium positioning in ['ART', 'DESIGN']."
+    },
+    {
+      "id": "content_rating",
+      "title": "Content rating distribution",
+      "insight": "Apps are spread across content ratings.",
+      "confidence": 0.95,
+      "supporting_stats": {
+        "Everyone": 0.8,
+        "Teen": 0.15,
+        "Mature": 0.05,
+        "Adults": 0.0,
+        "Unrated": 0.0
+      },
+      "recommendation": "Align marketing with the dominant audience segment."
+    },
+    {
+      "id": "highest_rated_category",
+      "title": "Highest rated category",
+      "insight": "['Shopping'] has the highest average rating (4.83).",
+      "confidence": 0.9,
+      "supporting_stats": {
+        "category": "['Shopping']",
+        "avg_rating": 4.83
+      },
+      "recommendation": "Learn from what makes ['Shopping'] successful."
+    },
+    {
+      "id": "lowest_rated_category",
+      "title": "Lowest rated category",
+      "insight": "['Productivity'] has the lowest average rating (0.00).",
+      "confidence": 0.9,
+      "supporting_stats": {
+        "category": "['Productivity']",
+        "avg_rating": 0.0
+      },
+      "recommendation": "Investigate issues in ['Productivity'] apps."
+    },
+    {
+      "id": "top_genre",
+      "title": "Most popular genre",
+      "insight": "The most common genre is ['Tools'] (842 apps).",
+      "confidence": 0.85,
+      "supporting_stats": {
+        "genre": "['Tools']",
+        "count": 842
+      },
+      "recommendation": "Expect heavy competition in this genre."
+    },
+    {
+      "id": "store_comparison",
+      "title": "Store comparison",
+      "insight": "App distribution by store: {'android': 10839, 'apple': 30}.",
+      "confidence": 0.95,
+      "supporting_stats": {
+        "android": 10839,
+        "apple": 30
+      },
+      "recommendation": "Balance strategy between Google Play and Apple Store."
+    },
+    {
+      "id": "recent_vs_old",
+      "title": "Recently updated vs older apps",
+      "insight": "Recently updated apps (since 2022) average 4.01 stars vs older apps 4.21.",
+      "confidence": 0.85,
+      "supporting_stats": {
+        "recent_avg_rating": 4.01,
+        "older_avg_rating": 4.21
+      },
+      "recommendation": "Frequent updates may help maintain higher ratings."
+    }
+  ]
+}
